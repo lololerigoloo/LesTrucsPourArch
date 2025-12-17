@@ -1,0 +1,3 @@
+pour changer le background de kitten il faut faire dans le terminal
+" kitten themes " cela va faire loder une page dans ton terminal et 
+tu va pouver choisir ta couleur 
